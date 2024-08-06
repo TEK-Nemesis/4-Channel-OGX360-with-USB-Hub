@@ -2,7 +2,11 @@
 External Wireless Controller mod for the Original Xbox (4 controller version with USB Hub)
 
 ## Intro
-This project builds on the hard work done by Ryzee119.  This variation of the OGX360 adds a 4-port USB Hub to the main PCB.  Having a built-in USB Hub allows you to plug in four different USB devices (such as a wired Hyperkin Duke controller, 8bitdo Bluetooth receiver, Xbox 360 wireless receiver, or any combination of different USB device types).
+This project builds on the hard work done by Ryzee119.  https://github.com/Ryzee119/ogx360
+Please consider donating to him here because without him, I wouldn't have been able to produce this item:
+https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=49HV7N8QH9KQ8&currency_code=AUD&source=url
+
+This variation of the OGX360 adds a 4-port USB Hub to the main PCB.  Having a built-in USB Hub allows you to plug in four different USB devices (such as a wired Hyperkin Duke controller, 8bitdo Bluetooth receiver, Xbox 360 wireless receiver, or any combination of different USB device types).
 
 ----------
 
