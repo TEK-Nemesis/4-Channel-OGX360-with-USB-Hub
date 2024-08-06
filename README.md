@@ -9,4 +9,4 @@ This project builds on the hard work done by Ryzee119.  This variation of the OG
 ### * WARNING *
 This project is in the BETA STAGE.  A previous version of the PCB was tested and everything worked great.  Use at your own risk!
 
-<img src="./Images/2-port ogx360 with 4-port USB Hub.jpg" width="60%"/> 
+<img src="./Images/4-port ogx360 with 4-port USB Hub.jpg" width="60%"/> 
